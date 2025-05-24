@@ -17,5 +17,3 @@ This project showcases data cleaning techniques applied to a retail sales datase
 - Cleaned and documented 8+ data transformations.
 - Generated a clean, analysis-ready CSV file.
 
-## Directory Structure
-
